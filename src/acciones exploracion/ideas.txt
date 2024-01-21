@@ -1,0 +1,9 @@
+20/1/2024
+
+- Lo ideal seria no comprar o vender de una, sino aplicar unos parametros de profit y stoploss.
+Ya que sino, las ganancias/perdidas son muy sensibles a nuestra estrategia.
+
+- El profit y stoploss lo podemos definir en base a un porcentaje del valor actual
+
+Si baja un x% o sube un z%, seguir mantiendo.
+Si baja un p%, donde se presenta una variacion negativa muy grande, vender.

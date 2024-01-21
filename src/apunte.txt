@@ -1,0 +1,12 @@
+20/01/2024
+
+Con el retorno acumulado podemos crear una estrategia, implementarla, y ver que tipo de retorno logramos. Esta buena la idea de crear
+una funcion que haga este proceso con multiples acciones.
+
+Explicacion del retorno:
+
+1 - Sacamos la variacion del precio respecto al dia anterior
+2 - En base a la posicion del dia anterior (compra/venta dependiendo de la estrategia), calculamos el retorno que obtendriamos
+    en caso de seguir lo que nos indica la variable "posicion".
+    Basicamente, estamos analizando que retorno tenemos HOY de lo que hicimos AYER.
+
