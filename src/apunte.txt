@@ -10,3 +10,7 @@ Explicacion del retorno:
     en caso de seguir lo que nos indica la variable "posicion".
     Basicamente, estamos analizando que retorno tenemos HOY de lo que hicimos AYER.
 
+21/01/2024
+
+El Ratio de Sortino nos ayuda a evaluar si una inversion es buena o mala acompañada del riesgo que este conlleva.
+Se centra mas que nada en las perdidas, y por eso se dice que esta ajustada al "riesgo de perder"
