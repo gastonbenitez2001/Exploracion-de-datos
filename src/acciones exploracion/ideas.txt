@@ -11,3 +11,9 @@ Si baja un p%, donde se presenta una variacion negativa muy grande, vender.
 21/1/2024
 
 - Podemos implementar stoploss y profits dinamicos, que acompañan el precio del cierre
+
+27/1/2024 
+
+Planter la posible funcionalidad de:
+- Calcular I. Sortino, Beta y CAMP, de forma mensual o semanal. Servira de algo?
+- En caso de hacerlo, es posible la generacion de FORECAST a futuro utilizando metodos de extrapolacion?

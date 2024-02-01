@@ -1,3 +1,16 @@
+Notacion economica|
+------------------|
+
+Rendimiento esperado --> Promedio o media de variaciones porcentuales
+
+====
+
+Libros recomendados:
+- Python for finances
+- Python for algorithmic trading
+- Hands-on Machine Learning
+- Building Reliable Tradinf Systems
+
 20/01/2024
 
 Con el retorno acumulado podemos crear una estrategia, implementarla, y ver que tipo de retorno logramos. Esta buena la idea de crear
@@ -14,3 +27,7 @@ Explicacion del retorno:
 
 El Ratio de Sortino nos ayuda a evaluar si una inversion es buena o mala acompañada del riesgo que este conlleva.
 Se centra mas que nada en las perdidas, y por eso se dice que esta ajustada al "riesgo de perder"
+
+29/01/2024
+
+El DrawDown se calcula utilizando los acumulados de la estrategia que creamos.
