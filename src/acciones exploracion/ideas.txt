@@ -17,3 +17,16 @@ Si baja un p%, donde se presenta una variacion negativa muy grande, vender.
 Planter la posible funcionalidad de:
 - Calcular I. Sortino, Beta y CAMP, de forma mensual o semanal. Servira de algo?
 - En caso de hacerlo, es posible la generacion de FORECAST a futuro utilizando metodos de extrapolacion?
+
+3/2/2024
+Pudimos generar un stoploss dinamico, lo que posiblemente sea buena idea ahora es asignar un profit dinamico. 
+La logica no cambia mucho realmente. 
+Consideracion: El stoploss no salta especificamente en los "5%", sino muy cerca del mismo, esto porque estamos
+trabajando con precios de cierre, y en un dia es posible 
+
+--> LO DE ARRIBA ESTA MAL, con el calculo de la variacion sabemos si perdimos o ganamos plata. No sabemos realmente
+Cual es la distancia porcentual entre el ultimo stoploss antes de cada venta. Esto estaria bueno hacerlo.
+
+12/2/2024
+
+- Podemos trabajar con una red neuronal de imagenes. Y detectar velas o patrones importantes.
