@@ -30,3 +30,8 @@ Cual es la distancia porcentual entre el ultimo stoploss antes de cada venta. Es
 12/2/2024
 
 - Podemos trabajar con una red neuronal de imagenes. Y detectar velas o patrones importantes.
+
+
+PARA ANALIZAR LOS SOPORTES Y RESISTENCIAS: 
+
+- Podemos ver la cantidad de toques que tuvo
