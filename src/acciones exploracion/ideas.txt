@@ -35,3 +35,13 @@ Cual es la distancia porcentual entre el ultimo stoploss antes de cada venta. Es
 PARA ANALIZAR LOS SOPORTES Y RESISTENCIAS: 
 
 - Podemos ver la cantidad de toques que tuvo
+- La concentracion de volumen todavia no se como tratarla (correlaccion? o similitud del coceno?)
+
+
+16/2/2024
+
+- Tener en cuenta la relatividad entre precio y volumen. Debe haber armonia (esto viendo cada vela)
+Si no existe armonia indica:
+    - Posibles cambios de tendencia
+    - Finalizacion de una tendencia
+    - Visualizacion de posibles manipulacion del mercado
